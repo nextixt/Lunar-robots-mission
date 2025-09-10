@@ -7,4 +7,4 @@ he current moment of the project development, this is only 0.00001 percent of al
 #It sounds ambitious, but I really hope that by starting now, in a few years I will receive funding for my project.
 
 How it seems.
-T<img width="992" height="960" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/779e208f-c3bb-46d8-8aab-44ea821a92e0" />
+<img width="992" height="960" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/779e208f-c3bb-46d8-8aab-44ea821a92e0" />
